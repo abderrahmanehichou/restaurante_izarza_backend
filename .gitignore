@@ -1,0 +1,33 @@
+# Entorno de desarrollo
+.env
+
+# Archivos de configuración de IDEs/editores
+.vscode/
+.idea/
+
+# Dependencias de Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos de base de datos local
+*.sqlite3
+
+# Archivos de compilación de Cython
+*.c
+*.so
+
+# Archivos de test
+.pytest_cache/
+.tox/
