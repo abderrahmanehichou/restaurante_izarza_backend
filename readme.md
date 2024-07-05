@@ -11,8 +11,8 @@ Sigue estos pasos para clonar el repositorio y configurar tu entorno de desarrol
 2. Ejecuta el siguiente comando para clonar el repositorio:
 
    ```sh
-   git clone https://github.com/EpicScopeProject/epic_scope_backend.git
-   cd epic_scope_backend
+   git clone https://github.com/jdaltamiranodev/restaurante_izarza_backend.git
+   cd restaurante_izarza_backend
    ```
 
 ### Paso 2: Crear un entorno virtual (recomendado)
